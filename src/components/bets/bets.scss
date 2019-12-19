@@ -1,0 +1,20 @@
+//BET
+
+
+.bet{
+    width: 100%;
+    min-height: 50px;
+    background-color: #201f26;
+    color:white;
+    display:inline-flex;
+    transition: 0.5s;
+}
+.bet:hover{
+    background-color: #3c394d;
+    cursor:pointer;
+    transition: 0.5s;
+}
+
+.bet-open{
+    
+}

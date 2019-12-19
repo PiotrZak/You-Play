@@ -1,0 +1,22 @@
+.nav-link{
+    background-color:transparent;
+    color:white !important;
+}
+
+.nav-link:hover{
+    background-color:transparent;
+    color:white !important;
+    border:none !important;
+    cursor:pointer;
+}
+
+.nav-link.active{
+    background-color:transparent !important;
+    color:white;
+    border-bottom: 2px solid #f59f30 !important;
+    border-color:none !important;
+}
+
+.nav-tabs .nav-link {
+    border: none;
+}

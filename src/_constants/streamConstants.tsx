@@ -1,0 +1,5 @@
+export const streamConstants = {
+    STREAM_REQUEST: 'STREAM_REQUEST',
+    STREAM_SUCCESS: 'STREAM_SUCCESS',
+    STREAM_FAILURE: 'STREAM_FAILURE',
+}
